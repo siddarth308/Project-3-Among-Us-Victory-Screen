@@ -2,3 +2,8 @@
 Created an Among Us Imposter Victory Screen using CSS &amp; HTML.
 
 ![](2.jpg)
+
+## Technologies Used:
+```bash
+HTML
+CSS(style/presentation)
